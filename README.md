@@ -1,12 +1,6 @@
 # Metaheuristics-In-Healthcare
 ## Metaheuristics for feature selection for medical applications
 
-1. https://www.sciencedirect.com/science/article/pii/S0045790616300532?casa_token=1gtCtKW78N8AAAAA:QHOpF6v91N5lYjAx5SiL5CZTEsHD2cMQjL_S8phoSxMvnYFKdYGQpz8z6SC6yzwMyewKvt25Sg - 0
-
-2. https://www.sciencedirect.com/science/article/pii/S0141933122001594?casa_token=mfT7NsOq4ikAAAAA:w1lvEbTlIMl9ACcP2bY67aHPV-RYNzrcLj478cToAkD5MIB_Rf7T3a1bHTmrYOyNkGHbFFNyOw - 0
-
-3. https://link.springer.com/article/10.1007/s11063-022-11055-6 - 0
-
 4. https://books.google.co.in/books?hl=en&lr=&id=IYPZDwAAQBAJ&oi=fnd&pg=PR5&dq=medical+applications+of+metaheuristic+algorithms&ots=ajcPsAp9nI&sig=1LaMV3L_laWzbInOKFu7pymRZRk&redir_esc=y#v=onepage&q=medical%20applications%20of%20metaheuristic%20algorithms&f=false - ****
 
 5. https://www.researchgate.net/profile/Ibrahim-Aljarah/publication/339925501_An_Efficient_Moth_Flame_Optimization_Algorithm_using_Chaotic_Maps_for_Feature_Selection_in_the_Medical_Applications/links/5e85085b92851c2f52743083/An-Efficient-Moth-Flame-Optimization-Algorithm-using-Chaotic-Maps-for-Feature-Selection-in-the-Medical-Applications.pdf - ****
@@ -17,11 +11,7 @@
 
 8. https://www.sciencedirect.com/science/article/pii/S0010482522001366?casa_token=VYMiTi3YGWsAAAAA:HZShNcM_X8rue-ugqoJGD4z0hLMZEk9WnuXdd_oosb_Ff2RVyn5hdKD9u9lyvRp_4HNhnPZ7cQ - ****
 
-9. https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00406-6 - 0
-
 10. https://ieeexplore.ieee.org/abstract/document/8589392?casa_token=icf6Mt5HTZYAAAAA:szFH23weZbYTbypgZTA6SLpaV0Qrb7cLxgCZt0mDhxIQCodbTIrGqbuQPXTEBE_rLyj4MDitf13c - ***
-
-12. https://ieeexplore.ieee.org/abstract/document/6724173?casa_token=pndfGUnujGYAAAAA:sBrvlllP4pVk23T8tPWrDJw1GEQ0IJHdmUKJ0OxI01qgY-CKvWmx-Yn2piByOWXzn3ydYUI7ruHU - 0
 
 14. https://downloads.hindawi.com/journals/cmmm/2021/5990999.pdf - ***
 
@@ -29,4 +19,4 @@
 
 19. https://www.hindawi.com/journals/sp/si/163817/ - ****
 
-20. **https://www.researchgate.net/publication/345690146_Meta-Heuristic_Algorithms_in_Medical_Image_Segmentation_A_Review** - ****
+20. https://www.researchgate.net/publication/345690146_Meta-Heuristic_Algorithms_in_Medical_Image_Segmentation_A_Review - ****
