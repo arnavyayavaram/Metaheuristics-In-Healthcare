@@ -13,18 +13,20 @@
 
 6. https://ieeexplore.ieee.org/abstract/document/8589392?casa_token=icf6Mt5HTZYAAAAA:szFH23weZbYTbypgZTA6SLpaV0Qrb7cLxgCZt0mDhxIQCodbTIrGqbuQPXTEBE_rLyj4MDitf13c - ***
 
-7. https://downloads.hindawi.com/journals/cmmm/2021/5990999.pdf - ***
+  - https://www.cs.bham.ac.uk/~xin/papers/FeatureSelectionAccepted.pdf
 
-8. https://ieeexplore.ieee.org/abstract/document/4798001?casa_token=IWOHo0vhOTwAAAAA:JMD1FB80YE2brUqDmDSK8nTWdqUqiPEKYhu_vjd0U6dlGb-cmypiDhcddIjxY5Ts7crO85lf3LS2 - ***
+8. https://downloads.hindawi.com/journals/cmmm/2021/5990999.pdf - ***
 
-9. https://www.hindawi.com/journals/sp/si/163817/ - ****
+9. https://ieeexplore.ieee.org/abstract/document/4798001?casa_token=IWOHo0vhOTwAAAAA:JMD1FB80YE2brUqDmDSK8nTWdqUqiPEKYhu_vjd0U6dlGb-cmypiDhcddIjxY5Ts7crO85lf3LS2 - ***
 
-10. https://www.researchgate.net/publication/345690146_Meta-Heuristic_Algorithms_in_Medical_Image_Segmentation_A_Review - ****
+10. https://www.hindawi.com/journals/sp/si/163817/ - ****
 
-11. https://ieeexplore.ieee.org/abstract/document/7346674
+11. https://www.researchgate.net/publication/345690146_Meta-Heuristic_Algorithms_in_Medical_Image_Segmentation_A_Review - ****
 
-12. https://www.mdpi.com/2076-3417/12/19/9710
+12. https://ieeexplore.ieee.org/abstract/document/7346674
 
-13. https://link.springer.com/article/10.1007/s11831-022-09853-1#Sec3
+13. https://www.mdpi.com/2076-3417/12/19/9710
 
-14. https://scholar.archive.org/work/nizkiko5u5fl3exaqe5sf3wjvu/access/wayback/http://www.scipublish.com/journals/CS/papers/download/3307-150.pdf
+14. https://link.springer.com/article/10.1007/s11831-022-09853-1#Sec3
+
+15. https://scholar.archive.org/work/nizkiko5u5fl3exaqe5sf3wjvu/access/wayback/http://www.scipublish.com/journals/CS/papers/download/3307-150.pdf
