@@ -18,26 +18,29 @@
 8. https://www.sciencedirect.com/science/article/pii/S0031320321002661#sec0003
 
 ********************************************************************************************************************************************************************************************
-16. https://ieeexplore.ieee.org/abstract/document/9311206
+9. https://ieeexplore.ieee.org/abstract/document/9311206
 A Novel Wrapper–Based Feature Selection for Early Diabetes Prediction Enhanced With a Metaheuristic
 
-17. https://link.springer.com/article/10.1007/s10586-018-2416-4#Sec3
+10. https://link.springer.com/article/10.1007/s10586-018-2416-4#Sec3
 An optimized feature selection based on genetic approach and support vector machine for heart disease
 
-18. https://d1wqtxts1xzle7.cloudfront.net/51133098/130_Paper_310716206_IJCSIS_Camera_Ready_pp._1243-1247-libre.pdf?1483206167=&response-content-disposition=inline%3B+filename%3DFeature_Selection_Based_on_Whale_Optimiz.pdf&Expires=1695765493&Signature=UDsuIBpj-Pg5i2wsm9GsuG7NjQEJFeJ2s7wN8EX2wrjGA8ey8WcQNwGAsmC74Z~K6LMTElBiV5gSKZA5TKEwPHfLVdQGoJQa12xR0cYSik801X35L-JGermtWzz38NkVfPguurYcBJhEjCu65Nh5AjcJDcljHC7n~6BVDGCTmU5khk9aUx0rLI73E8WKakTZiHs~Hv9Y3EVkuIE73Kap3voXrFKIWU38hKN4Kn6ufB0EBf8I5v1Exz8g~a0d2TQ9Qd~QOeDhFy4yH3rYSPuSXKzhVj0DMg47XL3Qx5KlyheH5A~LV~O1uA-fow3FWBP7SLfJSwht1jpQQ~t4SywMlw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+11. https://d1wqtxts1xzle7.cloudfront.net/51133098/130_Paper_310716206_IJCSIS_Camera_Ready_pp._1243-1247-libre.pdf?1483206167=&response-content-disposition=inline%3B+filename%3DFeature_Selection_Based_on_Whale_Optimiz.pdf&Expires=1695765493&Signature=UDsuIBpj-Pg5i2wsm9GsuG7NjQEJFeJ2s7wN8EX2wrjGA8ey8WcQNwGAsmC74Z~K6LMTElBiV5gSKZA5TKEwPHfLVdQGoJQa12xR0cYSik801X35L-JGermtWzz38NkVfPguurYcBJhEjCu65Nh5AjcJDcljHC7n~6BVDGCTmU5khk9aUx0rLI73E8WKakTZiHs~Hv9Y3EVkuIE73Kap3voXrFKIWU38hKN4Kn6ufB0EBf8I5v1Exz8g~a0d2TQ9Qd~QOeDhFy4yH3rYSPuSXKzhVj0DMg47XL3Qx5KlyheH5A~LV~O1uA-fow3FWBP7SLfJSwht1jpQQ~t4SywMlw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 Feature Selection Based on Whale Optimization Algorithm for Diseases Diagnosis
 
-9. https://ieeexplore.ieee.org/abstract/document/9217516
+12. https://ieeexplore.ieee.org/abstract/document/9217516
 An Improved Harris Hawks Optimization Algorithm With Simulated Annealing for Feature Selection in the Medical Field
 
-11. https://www.sciencedirect.com/science/article/pii/S0010482522006126#sec8
+13. https://www.sciencedirect.com/science/article/pii/S0010482522006126#sec8
 Enhanced whale optimization algorithm for medical feature selection: A COVID-19 case study
 
-13. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5ef9d429c628b9584424290a48ce99e911fd69bd
+14. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5ef9d429c628b9584424290a48ce99e911fd69bd
 Feature Selection on Classification of Medical Datasets based on Particle Swarm Optimization
 
 15. https://www.hindawi.com/journals/cmmm/2017/9512741/
 An Enhanced Grey Wolf Optimization Based Feature Selection Wrapped Kernel Extreme Learning Machine for Medical Diagnosis
+
+16. https://link.springer.com/article/10.1007/s00521-017-2988-6
+Feature selection via a novel chaotic crow search algorithm
 
 https://www.cs.bham.ac.uk/~xin/papers/FeatureSelectionAccepted.pdf------------?
 
