@@ -36,10 +36,13 @@ Enhanced whale optimization algorithm for medical feature selection: A COVID-19 
 13. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5ef9d429c628b9584424290a48ce99e911fd69bd
 Feature Selection on Classification of Medical Datasets based on Particle Swarm Optimization
 
-6. https://www.cs.bham.ac.uk/~xin/papers/FeatureSelectionAccepted.pdf------------?
+15. https://www.hindawi.com/journals/cmmm/2017/9512741/
+An Enhanced Grey Wolf Optimization Based Feature Selection Wrapped Kernel Extreme Learning Machine for Medical Diagnosis
 
-8. https://link.springer.com/article/10.1007/s11831-022-09853-1#Sec3-------------?
+https://www.cs.bham.ac.uk/~xin/papers/FeatureSelectionAccepted.pdf------------?
 
-13. https://ieeexplore.ieee.org/abstract/document/9344597--------------?
+https://link.springer.com/article/10.1007/s11831-022-09853-1#Sec3-------------?
 
-15. https://link.springer.com/article/10.1007/s11831-022-09853-1--------------?
+https://ieeexplore.ieee.org/abstract/document/9344597--------------?
+
+https://link.springer.com/article/10.1007/s11831-022-09853-1--------------?
