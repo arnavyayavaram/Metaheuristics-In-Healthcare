@@ -23,10 +23,10 @@
 
 11. https://www.researchgate.net/publication/345690146_Meta-Heuristic_Algorithms_in_Medical_Image_Segmentation_A_Review - ****
 
-12. https://ieeexplore.ieee.org/abstract/document/7346674
+**12. https://ieeexplore.ieee.org/abstract/document/7346674
 
 13. https://www.mdpi.com/2076-3417/12/19/9710
 
-14. https://link.springer.com/article/10.1007/s11831-022-09853-1#Sec3
+14. https://link.springer.com/article/10.1007/s11831-022-09853-1#Sec3**
 
 15. https://scholar.archive.org/work/nizkiko5u5fl3exaqe5sf3wjvu/access/wayback/http://www.scipublish.com/journals/CS/papers/download/3307-150.pdf
