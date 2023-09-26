@@ -11,9 +11,7 @@
 
 ********************************************************************************************************************************************************************************************
 
-4. https://www.cs.bham.ac.uk/~xin/papers/FeatureSelectionAccepted.pdf
-
-5. https://downloads.hindawi.com/journals/cmmm/2021/5990999.pdf
+5. https://www.cs.bham.ac.uk/~xin/papers/FeatureSelectionAccepted.pdf
 
 6. https://www.researchgate.net/profile/Ibrahim-Aljarah/publication/339925501_An_Efficient_Moth_Flame_Optimization_Algorithm_using_Chaotic_Maps_for_Feature_Selection_in_the_Medical_Applications/links/5e85085b92851c2f52743083/An-Efficient-Moth-Flame-Optimization-Algorithm-using-Chaotic-Maps-for-Feature-Selection-in-the-Medical-Applications.pdf
 
