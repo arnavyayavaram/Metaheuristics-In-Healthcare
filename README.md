@@ -1,39 +1,38 @@
 # Metaheuristics-In-Healthcare
 ## Metaheuristics for feature selection for medical applications
 
-1. https://books.google.co.in/books?hl=en&lr=&id=IYPZDwAAQBAJ&oi=fnd&pg=PR5&dq=medical+applications+of+metaheuristic+algorithms&ots=ajcPsAp9nI&sig=1LaMV3L_laWzbInOKFu7pymRZRk&redir_esc=y#v=onepage&q=medical%20applications%20of%20metaheuristic%20algorithms&f=false - ****
+1. https://ieeexplore.ieee.org/abstract/document/7346674 - DONE
 
-2. https://www.researchgate.net/profile/Ibrahim-Aljarah/publication/339925501_An_Efficient_Moth_Flame_Optimization_Algorithm_using_Chaotic_Maps_for_Feature_Selection_in_the_Medical_Applications/links/5e85085b92851c2f52743083/An-Efficient-Moth-Flame-Optimization-Algorithm-using-Chaotic-Maps-for-Feature-Selection-in-the-Medical-Applications.pdf - ****
+2. https://www.sciencedirect.com/science/article/pii/S0010482522001366?casa_token=VYMiTi3YGWsAAAAA:HZShNcM_X8rue-ugqoJGD4z0hLMZEk9WnuXdd_oosb_Ff2RVyn5hdKD9u9lyvRp_4HNhnPZ7cQ - DONE
 
-3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4678452/ - *
+3. https://ieeexplore.ieee.org/abstract/document/8589392?casa_token=icf6Mt5HTZYAAAAA:szFH23weZbYTbypgZTA6SLpaV0Qrb7cLxgCZt0mDhxIQCodbTIrGqbuQPXTEBE_rLyj4MDitf13c - DONE
 
-4. https://www.sciencedirect.com/science/article/pii/S0957417421017103?casa_token=-0FWTk5MMTkAAAAA:gbt9EJ582JD-FYImG_d4PL3pwjLa6p_yGZgosGPcTt_RXWJht6kRkE2X9aexJp2-81VGWCKjHw - *
+4. https://www.mdpi.com/2076-3417/12/19/9710 - DONE
 
-5. https://www.sciencedirect.com/science/article/pii/S0010482522001366?casa_token=VYMiTi3YGWsAAAAA:HZShNcM_X8rue-ugqoJGD4z0hLMZEk9WnuXdd_oosb_Ff2RVyn5hdKD9u9lyvRp_4HNhnPZ7cQ - ****
+********************************************************************************************************************************************************************************************
 
-6. https://ieeexplore.ieee.org/abstract/document/8589392?casa_token=icf6Mt5HTZYAAAAA:szFH23weZbYTbypgZTA6SLpaV0Qrb7cLxgCZt0mDhxIQCodbTIrGqbuQPXTEBE_rLyj4MDitf13c - ***
+4. https://www.cs.bham.ac.uk/~xin/papers/FeatureSelectionAccepted.pdf
 
-  - https://www.cs.bham.ac.uk/~xin/papers/FeatureSelectionAccepted.pdf
+5. https://downloads.hindawi.com/journals/cmmm/2021/5990999.pdf
 
-8. https://downloads.hindawi.com/journals/cmmm/2021/5990999.pdf - ***
+6. https://www.researchgate.net/profile/Ibrahim-Aljarah/publication/339925501_An_Efficient_Moth_Flame_Optimization_Algorithm_using_Chaotic_Maps_for_Feature_Selection_in_the_Medical_Applications/links/5e85085b92851c2f52743083/An-Efficient-Moth-Flame-Optimization-Algorithm-using-Chaotic-Maps-for-Feature-Selection-in-the-Medical-Applications.pdf
 
-9. https://ieeexplore.ieee.org/abstract/document/4798001?casa_token=IWOHo0vhOTwAAAAA:JMD1FB80YE2brUqDmDSK8nTWdqUqiPEKYhu_vjd0U6dlGb-cmypiDhcddIjxY5Ts7crO85lf3LS2 - ***
+7. https://link.springer.com/article/10.1007/s11831-022-09853-1#Sec3
 
-10. https://www.hindawi.com/journals/sp/si/163817/ - ****
+8. https://ieeexplore.ieee.org/abstract/document/6871693
 
-11. https://www.researchgate.net/publication/345690146_Meta-Heuristic_Algorithms_in_Medical_Image_Segmentation_A_Review - ****
+9. https://ieeexplore.ieee.org/abstract/document/9217516
 
-12. https://scholar.archive.org/work/nizkiko5u5fl3exaqe5sf3wjvu/access/wayback/http://www.scipublish.com/journals/CS/papers/download/3307-150.pdf
+10. https://www.sciencedirect.com/science/article/pii/S0010482522006126#sec8
 
-*********************************************************************************************************************************************************************************************
-13. https://ieeexplore.ieee.org/abstract/document/7346674
+11. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5ef9d429c628b9584424290a48ce99e911fd69bd
 
-14. https://www.mdpi.com/2076-3417/12/19/9710
+12. https://www.sciencedirect.com/science/article/pii/S092523121730807X
 
-15. https://link.springer.com/article/10.1007/s11831-022-09853-1#Sec3
+13. https://ieeexplore.ieee.org/abstract/document/9344597
 
-16. https://ieeexplore.ieee.org/abstract/document/6871693
+14. https://www.sciencedirect.com/science/article/pii/S0031320321002661#sec0003
 
-17. https://ieeexplore.ieee.org/abstract/document/9217516
+15. file:///C:/Users/arnav/Downloads/s11831-022-09853-1.pdf
 
-18. 
+16. https://ieeexplore.ieee.org/abstract/document/9311206
