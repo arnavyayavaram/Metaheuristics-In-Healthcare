@@ -37,3 +37,13 @@ Metaheuristic Search Based Feature Selection Methods for Classification of Cance
 
 16. https://ieeexplore.ieee.org/abstract/document/9311206
 A Novel Wrapper–Based Feature Selection for Early Diabetes Prediction Enhanced With a Metaheuristic
+
+17. https://link.springer.com/article/10.1007/s10586-018-2416-4#Sec3
+An optimized feature selection based on genetic approach and support vector machine for heart disease
+
+18. https://d1wqtxts1xzle7.cloudfront.net/51133098/130_Paper_310716206_IJCSIS_Camera_Ready_pp._1243-1247-libre.pdf?1483206167=&response-content-disposition=inline%3B+filename%3DFeature_Selection_Based_on_Whale_Optimiz.pdf&Expires=1695765493&Signature=UDsuIBpj-Pg5i2wsm9GsuG7NjQEJFeJ2s7wN8EX2wrjGA8ey8WcQNwGAsmC74Z~K6LMTElBiV5gSKZA5TKEwPHfLVdQGoJQa12xR0cYSik801X35L-JGermtWzz38NkVfPguurYcBJhEjCu65Nh5AjcJDcljHC7n~6BVDGCTmU5khk9aUx0rLI73E8WKakTZiHs~Hv9Y3EVkuIE73Kap3voXrFKIWU38hKN4Kn6ufB0EBf8I5v1Exz8g~a0d2TQ9Qd~QOeDhFy4yH3rYSPuSXKzhVj0DMg47XL3Qx5KlyheH5A~LV~O1uA-fow3FWBP7SLfJSwht1jpQQ~t4SywMlw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+Feature Selection Based on Whale Optimization Algorithm for Diseases Diagnosis 
+
+19. b
+
+20. c
