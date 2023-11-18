@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Differential Evolution - Feature Selection using Metaheuristic Algorithms</title>
+    <title>Whale Optimization Algorithm - Feature Selection using Metaheuristic Algorithms</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
     <header>
-        <h1>Differential Evolution</h1>
+        <h1>Whale Optimization Algorithm</h1>
     </header>
 
     <nav>
@@ -22,28 +22,28 @@
         <a href="algo5.html">Differential Evolution</a>
     </nav>
 
-    <section id="algorithm_de">
-        <h2>Introduction to Differential Evolution Algorithm</h2>
-        <p>The Differential Evolution Algorithm is an optimization technique used to find approximate solutions to complex problems. This algorithm is inspired by the process of natural selection and genetics.</p>
-        <p>While Differential Evolution (DE) and Genetic Algorithms (GA) both fall under the umbrella of evolutionary algorithms, they differ in their approach to optimization. DE, inspired by natural selection and genetics, focuses on the mutation, crossover, and selection of individuals within a population to improve solutions. DE employs vector-based operations, such as differential mutation and binomial crossover, making it particularly effective for continuous optimization problems. On the other hand, Genetic Algorithms use a population of candidate solutions represented as chromosomes and apply crossover and mutation operations to evolve towards optimal solutions. GAs are versatile and widely applicable, suitable for both discrete and continuous optimization tasks. The key distinction lies in the specific mechanisms and representations used by each algorithm, influencing their performance in different problem domains.</p>
-
+    <section id="algorithm2">
+        <h2>Introduction to Whale Optimization Algorithm</h2>
+        <p>The Whale Optimization Algorithm is a nature-inspired optimization technique used to find approximate solutions to complex problems. This algorithm is inspired by the social behavior of whales, particularly their hunting strategy. In the context of feature selection, the Whale Optimization Algorithm evolves a population of candidate solutions (chromosomes) towards an optimal solution.</p>
+    
         <h2>Implementation Details</h2>
-        <p>In the provided implementation, the Differential Evolution Algorithm is applied for feature selection in image classification tasks. Here's an overview of the algorithm:</p>
+        <p>In the provided implementation, the Whale Optimization Algorithm is applied for feature selection in image classification tasks. Here's an overview of the algorithm:</p>
     
         <ol>
             <li><strong>Fitness Calculation:</strong> The fitness of each individual is computed using the `fitness_rf_classifier` function, which evaluates the accuracy of a RandomForestClassifier on the selected feature set.</li>
-            <li><strong>Optimization Process:</strong> The algorithm involves the initialization of a population using a normal distribution, mutation, crossover, and selection based on fitness comparison.</li>
+            <li><strong>Optimization Process:</strong> The algorithm involves random exploration and exploitation using coefficients A, a, C, l, and p. Individuals are updated based on fitness comparison, promoting the selection of better feature sets.</li>
             <li><strong>Generations Loop:</strong> The main loop runs for a predefined number of iterations, updating the population in each iteration to improve feature selection.</li>
         </ol>
     
         <h2>Results</h2>
+
     
         <p>The final selected features are printed:</p>
     
         <pre>
             <code>
-                459, 371, 409, 514, 305, 262, 295, 439, 326, 291, 588, 365, 307, 
-                290, 302, 254, 515, 324, 219, 348, 290, 149, 119, 483, 406, 466, 358, 213
+                Selected Features: [132 240 321 301 327 408 291 220 222 432 238 284 573 147 289
+                 409 405 381 483 514 307 281 601 516 459 368 271 491]
             </code>
         </pre>
     
@@ -65,15 +65,15 @@
     
         <pre>
             <code>
-                0.8682857142857143
+                0.845643
             </code>
         </pre>
-
-        <p>Computed in : </p>
+    
+        <p>Taking just : </p>
     
         <pre>
             <code>
-                20.0 seconds
+                17.6 seconds
             </code>
         </pre>
     
@@ -82,9 +82,10 @@
         <p>We highlight the selected pixels which represent features in our problem to represent the learning capability of the algorithm in understanding the important features for a quicker and less computationally intensive classification</p>
     
         <!-- Image Section -->
-        <img src="de.png" alt="Differential Evolution Algorithm Image" width="200" height="200">
+        <img src="\images\woa.png" alt="Whale Optimization Algorithm Image" width="200" height="200">
     
         <!-- You can add more content here -->
+    
     </section>
 
     <!-- <footer>
