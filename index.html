@@ -10,15 +10,15 @@
 
 <body>
     <header>
-        <h1>Feature Selection using Metaheuristic Algorithms</h1>
+        <h1>Feature Selection using Metaheuristics</h1>
     </header>
 
     <nav>
         <a href="index.html">Home</a>
         <a href="algo1.html">Simulated Annealing</a>
         <a href="algo2.html">Genetic Algorithm</a>
-        <a href="algo3.html">Algorithm 3</a>
-        <a href="algo4.html">Algorithm 4</a>
+        <a href="algo3.html">Particle Swarm Optimization</a>
+        <a href="algo4.html">Whale Optimization Algorithm</a>
         <a href="algo5.html">Algorithm 5</a>
     </nav>
 
@@ -28,6 +28,33 @@
         <p>Siddharth Yayavaram&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Roll No: 2021A7PS3116H</p>
         <p>Arnav Yayavaram&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Roll No: 2021A7PS3117H</p>
         
+
+    <h1>Feature Selection Comparative Analysis</h1>
+
+    <p>We aim to reduce the number of features required for classification using various metaheuristic algorithms.</p>
+
+    <p>We use the MNIST dataset which is made up of 70000 handwritten digits, formatted as 28 x 28 pixel images.</p>
+
+    <p>They have been converted to 1-D arrays of size 28*28 = 784 values for each image.</p>
+
+    <p>We will use a random forest classifier, and use accuracy as our objective function.</p>
+
+    <p>Our selected features will be in the format of a 1-D array consisting of 'n' elements, where 'n' is the number of features out of 784 that we require for the model.</p>
+
+    <p>We initialize the population and initial individuals where required by randomly selecting 'n' values ranging from 0 to 783, which will act as the selected column values.</p>
+
+    <p>Our final solution is an array of 'n' elements with each element representing a column or a feature from the dataset, selected using our metaheuristic algorithms.</p>
+
+    <p>We finally compare the accuracy obtained by training the model using all 784 features and measure accuracy. Similarly, we do so using our selected features.</p>
+
+    <p>We observe that both models achieve very similar accuracy, with the model using our selected features taking much less time to train.</p>
+
+    <p>As an additional test, we initialize random values and train a model using these columns. The accuracy is significantly lower, suggesting that our algorithms are successful.</p>
+
+    <p>The MNIST dataset contains images of this form </p>
+
+    <!-- Image Section -->
+    <img src="example.png" alt="Simulated Annealing Image" width="200" height="200">
     </section>
 <!-- 
     <footer>
